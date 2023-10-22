@@ -32,7 +32,7 @@
 
 ### Part.0
 
-* Kotlin에 대해서(Kotlin Basic)1
+* [Kotlin에 대해서(Kotlin Basic)1](https://github.com/HeewonP825/Kotlin_Study/commit/44889cfabd17c822082594a7a5e927e53d3d515c)
 * Kotlin에 대해서(Kotlin Basic)2
 * Android의 기본 요소
 * Activity의 생명 주기
