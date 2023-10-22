@@ -27,3 +27,32 @@
 |10:30 ~ 19:00|Kotlin 학습 및 자료구조(in kotlin) 교재 공부|
 |20:00 ~ 22:00|알고리즘 2문제 풀이|
 |22:00 ~ 24:00|학습 내용 복습 겸 정리|
+
+## 📑 목차
+
+### Part.0
+
+* Kotlin에 대해서(Kotlin Basic)1
+* Kotlin에 대해서(Kotlin Basic)2
+* Android의 기본 요소
+* Activity의 생명 주기
+* View가 그려지는 순서
+
+### Part.1
+
+* 간단한 앱 개발을 통한 Kotlin(숫자세기 앱)
+* 간단한 앱 개발을 통한 Kotlin(단위 변환기 앱)
+* 간단한 앱 개발을 통한 Kotlin(계산기 앱)
+* 간단한 앱 개발을 통한 Kotlin(단어장 앱)
+
+### Part.2
+
+* Kotlin 라이브러리 활용(오늘의 공지 앱)
+* Kotlin 라이브러리 활용(깃허브 레포 조회 앱)
+* Kotlin 라이브러리 활용(채팅 앱)
+* Kotlin 라이브러리 활용(오늘의집, 스타벅스 앱)
+* Kotlin 라이브러리 활용(Youtube 앱)
+
+
+### Part.3
+
